@@ -6,4 +6,8 @@
     <string name="category_page">Ke Halaman Category</string>
     <string name="hello_category">Ini Halaman Category</string>
     <string name="kategori_lifestyle">Kategori Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_activity">Ke Halaman Activity</string>
+    <string name="show_dialog">Tampilkan sebuah dialog</string>
 </resources>
