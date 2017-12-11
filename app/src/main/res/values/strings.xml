@@ -10,4 +10,12 @@
     <string name="category_description">Category Description</string>
     <string name="to_activity">Ke Halaman Activity</string>
     <string name="show_dialog">Tampilkan sebuah dialog</string>
+    <string name="question_1">Siapa pelatih tersukses Manchester United?</string>
+    <string name="option_1">Sir Alex Ferguson</string>
+    <string name="option_2">Jose Maurinho</string>
+    <string name="option_3">Louis Van Gaal</string>
+    <string name="option_4">David Moyes</string>
+    <string name="tutup">Tutup</string>
+    <string name="pilih">Pilih</string>
+    <string name="ini_profile_activity">Ini Profile Activity</string>
 </resources>
